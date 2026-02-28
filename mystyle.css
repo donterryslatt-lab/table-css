@@ -2,22 +2,22 @@ body {
       background-color:lightpink;
    font-family: arial ;
    width: 200px;
-   margin: auto;
+  
 }
 h1{
-    margin-bottom: 20px;
+   
 }
 
 label{
     display:block;
-    margin-bottom: 6px;
+    
     font-weight: bold;
     color: darkblue;   
 }
 input {
     width: 100px;
     padding: auto;
-    margin-bottom: 20px;
+    
     border: none;
     border-radius: 6px;
 }
